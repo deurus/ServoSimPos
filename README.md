@@ -28,7 +28,7 @@ Mediante un script de Python se ha identificado que la posición crece a una vel
 Tenéis la información completa en la entrada del blog:
 https://garikoitz.info/blog/2025/04/modelado-y-control-de-posicion-de-un-servo-simulado/
 
-<h3>Enlaces</h3>
+<h2>Enlaces</h2>
 <li>Simulador [<a href="https://garikoitz.info/blog/descargas/MotorDC_SIM/Simulador/" target="_blank" rel="noreferrer noopener">garikoitz.info</a>]</li>
 <li>Carpeta del Proyecto [<a href="https://garikoitz.info/blog/descargas/MotorDC_SIM/" target="_blank" rel="noreferrer noopener">garikoitz.info</a>]</li>
 <li>Respuesta integradora [<a href="https://garikoitz.info/blog/2022/05/introduccion-al-algoritmo-pid-y-su-implementacion-en-arduino/#Respuesta_integral" target="_blank" rel="noreferrer noopener">garikoitz.info</a>]</li>
